@@ -11,6 +11,10 @@ $ docker compose up --build
 ```
 http://localhost:1111
 
+Suite :<br>
+Ajout des volumes
+Reverse proxy https
+
 
 
 <br>
