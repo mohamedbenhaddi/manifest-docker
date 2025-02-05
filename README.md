@@ -1,8 +1,14 @@
 # manifest-docker
-Dockerfile for manifest  micro-backend
-changer la valeur de TOKEN_SECRET_KEY dans src/.env
-docker compose up --build 
+<p>Dockerfile for manifest  micro-backend</p>
+<p>changer la valeur de TOKEN_SECRET_KEY dans src/.env</p>
 
+```bash
+$ git clone https://github.com/mohamedbenhaddi/manifest-docker.git
+```
+
+```bash
+$ docker compose up --build
+```
 http://localhost:1111
 
 
